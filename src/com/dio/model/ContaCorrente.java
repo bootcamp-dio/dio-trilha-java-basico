@@ -1,4 +1,4 @@
-package com.dio.model;
+package src.com.dio.model;
 
 public class ContaCorrente {
 

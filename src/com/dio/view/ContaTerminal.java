@@ -1,6 +1,6 @@
-package com.dio.view;
+package src.com.dio.view;
 
-import com.dio.model.ContaCorrente;
+import src.com.dio.model.ContaCorrente;
 
 import java.util.Scanner;
 
